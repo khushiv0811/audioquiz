@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "Audio & Quiz"; ObjectID = "2Dw-an-IYr"; */
+"2Dw-an-IYr.text" = "ऑडियो और प्रश्नोत्तरी";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2aI-ts-lCM"; */
+"2aI-ts-lCM.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Quiz"; ObjectID = "92D-pt-nan"; */
+"92D-pt-nan.normalTitle" = "प्रश्नोत्तरी";
+
+/* Class = "UIButton"; normalTitle = "Select Language"; ObjectID = "9BP-ub-9fl"; */
+"9BP-ub-9fl.normalTitle" = "भाषा का चयन करें";
+
+/* Class = "UILabel"; text = "Category Name "; ObjectID = "9zD-mX-6Hp"; */
+"9zD-mX-6Hp.text" = "श्रेणी नाम ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "BjU-eW-D35"; */
+"BjU-eW-D35.placeholder" = "ईमेल";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "Bs3-75-Ajb"; */
+"Bs3-75-Ajb.placeholder" = "मोबाइल नंबर";
+
+/* Class = "UILabel"; text = "Category Name "; ObjectID = "Ekb-DB-PTm"; */
+"Ekb-DB-PTm.text" = "श्रेणी नाम ";
+
+/* Class = "UIButton"; normalTitle = "Select Language"; ObjectID = "FaP-bt-o46"; */
+"FaP-bt-o46.normalTitle" = "भाषा का चयन करें";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "GxA-7n-EoB"; */
+"GxA-7n-EoB.text" = "रजिस्टर करें";
+
+/* Class = "UILabel"; text = "Select Your Language"; ObjectID = "J3K-HR-G1p"; */
+"J3K-HR-G1p.text" = "अपनी भाषा का चयन करें";
+
+/* Class = "UIButton"; normalTitle = "Hindi"; ObjectID = "JZt-mE-2cQ"; */
+"JZt-mE-2cQ.normalTitle" = "हिंदी";
+
+/* Class = "UIButton"; normalTitle = "Language 1"; ObjectID = "KYw-GG-Yrs"; */
+"KYw-GG-Yrs.normalTitle" = "भाषा 1";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "Lz9-cG-Ynu"; */
+"Lz9-cG-Ynu.text" = "लॉग इन करें";
+
+/* Class = "UILabel"; text = "Category Name "; ObjectID = "OKQ-5F-sWb"; */
+"OKQ-5F-sWb.text" = "श्रेणी नाम ";
+
+/* Class = "UILabel"; text = "Are you a new user?"; ObjectID = "PLI-am-zPb"; */
+"PLI-am-zPb.text" = "क्या आप नए उपयोगकर्ता हैं?";
+
+/* Class = "UITextField"; placeholder = "Mobile No."; ObjectID = "VIJ-4G-dJj"; */
+"VIJ-4G-dJj.placeholder" = "मोबाइल न।";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "W8s-tx-jcA"; */
+"W8s-tx-jcA.normalTitle" = "किया हुआ";
+
+/* Class = "UILabel"; text = "Select Your Preference"; ObjectID = "ZHw-0i-aYx"; */
+"ZHw-0i-aYx.text" = "अपनी पसंद चुनो";
+
+/* Class = "UILabel"; text = "Preferred Language 1"; ObjectID = "a5D-i4-Y5h"; */
+"a5D-i4-Y5h.text" = "पसंदीदा भाषा 1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aNy-pj-hQh"; */
+"aNy-pj-hQh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "cVK-JI-WZv"; */
+"cVK-JI-WZv.normalTitle" = "प्रस्तुत";
+
+/* Class = "UILabel"; text = "Preferred Language 2"; ObjectID = "coM-ig-79p"; */
+"coM-ig-79p.text" = "पसंदीदा भाषा 2";
+
+/* Class = "UIButton"; normalTitle = "Mother Tongue"; ObjectID = "gFs-Zk-L29"; */
+"gFs-Zk-L29.normalTitle" = "मातृ भाषा";
+
+/* Class = "UILabel"; text = "Preferred Language 3"; ObjectID = "h4n-zU-5Lz"; */
+"h4n-zU-5Lz.text" = "पसंदीदा भाषा 3";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hap-dc-Bvx"; */
+"hap-dc-Bvx.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Language 2"; ObjectID = "jy8-vN-KIZ"; */
+"jy8-vN-KIZ.normalTitle" = "भाषा 2";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "mpK-kc-ptY"; */
+"mpK-kc-ptY.normalTitle" = "प्रस्तुत";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "nkf-P0-vek"; */
+"nkf-P0-vek.normalTitle" = "English";
+
+/* Class = "UITextField"; placeholder = "Full Name "; ObjectID = "nwu-pM-Njo"; */
+"nwu-pM-Njo.placeholder" = "पूरा नाम ";
+
+/* Class = "UIButton"; normalTitle = "Select Language"; ObjectID = "riv-4k-TEw"; */
+"riv-4k-TEw.normalTitle" = "भाषा का चयन करें";
+
+/* Class = "UIButton"; normalTitle = "Listen to Radio"; ObjectID = "sp8-sT-dAq"; */
+"sp8-sT-dAq.normalTitle" = "रेडियो सुनो";
+
+/* Class = "UIButton"; normalTitle = "Register Now"; ObjectID = "xj3-oi-tkW"; */
+"xj3-oi-tkW.normalTitle" = "अभी पंजीकरण करें";
